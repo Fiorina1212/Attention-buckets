@@ -2,7 +2,6 @@ import argparse
 import json
 import os
 import time
-
 import numpy as np
 import tensor_parallel as tp
 import torch
